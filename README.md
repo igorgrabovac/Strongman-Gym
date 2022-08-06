@@ -1,3 +1,3 @@
 # Strongman-Gym
 
-https://igorcar.github.io/Strongman-Gym/
+https://igorgrabovac.github.io/Strongman-Gym/
